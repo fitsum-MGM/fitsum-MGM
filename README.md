@@ -6,15 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-- Full-stack developer based in **Addis Ababa, Ethiopia** 🇪🇹
-- I build **real-world projects that make everyday life and work simpler**
-- Working at a software company, and working towards launching my own startup
-- Always learning, especially AI agents and blockchain
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -43,12 +34,6 @@ Solana · Anchor
 
 ---
 
-## 🌱 Currently Working On
-
-- Building and shipping projects that solve everyday problems
-- Exploring AI agents and on-chain payments
-
----
 
 ## 📫 Connect With Me
 
