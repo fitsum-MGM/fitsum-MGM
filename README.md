@@ -47,7 +47,6 @@ Solana · Anchor
 
 - Building and shipping projects that solve everyday problems
 - Exploring AI agents and on-chain payments
-- Getting better at Docker and CI/CD
 
 ---
 
