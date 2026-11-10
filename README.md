@@ -14,7 +14,7 @@
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,next.js)
 
 **Backend**
 
@@ -27,10 +27,6 @@
 **Tools**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu)
-
-**Blockchain**
-
-Solana · Anchor
 
 ---
 
