@@ -14,7 +14,7 @@
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,next.js)
+![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,html,css,tailwind)
 
 **Backend**
 
